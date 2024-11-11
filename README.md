@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">Student at MTECH learning about data and its real-world impact📊📈</h3>
 
-- 🔭 I’m currently working on **creating a database**
+- 🔭 I’m currently working on **analyzing a dataset using SQL**
 
 - 🌱 I’m currently learning **Pandas, Matplotlib & SQL**
 
