@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Pandas, Matplotlib & SQL**
 
-- 📫 How to reach me **braccioboscan@gmail.com**
+- 📫 How to reach me **fernando.bracho1574@stu.mtec.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
