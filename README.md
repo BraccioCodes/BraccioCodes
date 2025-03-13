@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">Aspiring data scientist learning about data and its real-world impact📊📈</h3>
 
-- 🔭 I’m currently working on **sharpening my dataviz skills**
+- 🔭 I’m currently working on **designing a database**
 
-- 🌱 I’m currently learning **Tableau, Power BI**
+- 🌱 I’m currently learning **AWS solutions**
 
 - 📫 How to reach me **braccioboscan@gmail.com**
 
