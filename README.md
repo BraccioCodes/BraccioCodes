@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">Data analyst making a real-world impact using data📊📈</h3>
+<h3 align="center">Data analyst making a real-world impact📊📈</h3>
 
 - 🔭 I’m currently working on **designing a database**
 
